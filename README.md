@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cornel Timaru</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
-- 🔭 I’m currently working on **Leeds Trinity University Digital coding**
+- 🔭 I’m currently working on **Leeds Trinity University Digital Coding**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
