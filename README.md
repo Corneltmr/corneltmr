@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cornel Timaru</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+<h3 align="center">A passionate frontend developer from United Kingdom</h3>
 
 - 🔭 I’m currently working on **Leeds Trinity University ReBoot Digital Coding**
 
